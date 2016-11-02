@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>leaflet-locatecontrol</artifactId>
-    <version>0.56.0</version>
+    <version>0.56.0-SNAPSHOT</version>
     <name>Leaflet.Locate</name>
     <description>WebJar for Leaflet.Locate</description>
     <url>http://webjars.org</url>
